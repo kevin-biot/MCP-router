@@ -1,0 +1,40 @@
+{
+  "name": "mcp-shared-memory",
+  "version": "0.1.0",
+  "description": "Shared memory and vector database utilities for MCP servers",
+  "type": "module",
+  "main": "shared-memory.js",
+  "types": "shared-memory.d.ts",
+  "exports": {
+    ".": {
+      "import": "./shared-memory.js",
+      "types": "./shared-memory.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "peerDependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.3",
+    "chromadb": "^3.0.10",
+    "@chroma-core/default-embed": "^0.1.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "@types/node": "^22"
+  },
+  "keywords": [
+    "mcp", 
+    "memory", 
+    "vector-database", 
+    "chromadb", 
+    "operations",
+    "shared-library"
+  ],
+  "author": {
+    "name": "Kevin Brown",
+    "email": "kevin@example.com"
+  },
+  "license": "MIT"
+}
