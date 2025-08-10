@@ -377,11 +377,11 @@ npm run dev
 
 ## 📚 **Documentation**
 
-- **[Architecture Decision Records](./docs/architecture/)** - Technical decisions and rationale
-- **[Router API Reference](./docs/api/)** - Complete API documentation
-- **[Workflow Guide](./docs/workflows/)** - Diagnostic process templates
+- **[Architecture Decision Records](./docs/architecture/)** - Technical decisions and rationale *(Coming Soon)*
+- **[Router API Reference](./docs/api/)** - Complete API documentation *(Coming Soon)*
+- **[Workflow Guide](./docs/workflows/)** - Diagnostic process templates *(Coming Soon)*
 - **[Memory Library Guide](./src/memory/README.md)** - Shared memory usage
-- **[Deployment Guide](./docs/deployment/)** - Production setup and configuration
+- **[Deployment Guide](./docs/deployment/)** - Production setup and configuration *(Coming Soon)*
 
 ## 🔗 **Related Projects**
 
